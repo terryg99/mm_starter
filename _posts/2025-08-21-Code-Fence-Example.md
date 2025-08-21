@@ -5,8 +5,8 @@ categories:
   - Blog
 tags:
   - Post Formats
-  - readability
-  - standard
+  - Programming
+  - SwiftUI
 ---
 
 ## This is an example of a code fence
