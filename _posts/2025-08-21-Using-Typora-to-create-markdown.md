@@ -9,6 +9,12 @@ tags:
   - Utilities
 ---
 
+#### TL;DR
+
+Typora is a macOS utility that can be used to create and render markdown files. It "plays nice" with GitHub, allowing the markdown pages to be deployed on the web using GitHub Pages.
+
+#### Introduction
+
 Typora is a macOS app that can be used to generate markdown files. Markdown is a language used to efficiently create plain text files (they can be displayed in TextEdit or BBEdit) that can be rendered into formatted pages. It is a markup language like HTML, but simpler (and only slightly less powerful). The pages in this blog were created as markdown files in Typora, then were uploaded to GitHub, and rendered in GitHub Pages. The technique for doing this is likely to be the subject for future posts in this blog.
 
 Stewart Lynch recommended this app. He mentions it in several of his videos including: [Publish to the web with GitHub Pages and Typora](https://www.youtube.com/watch?v=19Cod5xUV1w) which was the inspiration for this blog.
