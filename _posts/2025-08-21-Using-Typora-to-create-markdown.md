@@ -1,6 +1,5 @@
----
 ​---
-title: "Post: Standard"
+title: "Using Typora to create markdown"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -9,9 +8,6 @@ tags:
   - readability
   - standard
 ​---
----
-
-
 
 ## Using Typora
 
