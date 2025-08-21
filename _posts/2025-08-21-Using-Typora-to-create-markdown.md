@@ -1,4 +1,5 @@
-​---
+
+--- 
 title: "Using Typora to create markdown"
 excerpt_separator: "<!--more-->"
 categories:
