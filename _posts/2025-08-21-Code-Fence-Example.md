@@ -1,6 +1,15 @@
-## This is my third document
+---
+title: "Post: Code Fence"
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+  - Post Formats
+  - readability
+  - standard
+---
 
-### This is an example of a code fence
+## This is an example of a code fence
 
 `````swift
 import SwiftUI
