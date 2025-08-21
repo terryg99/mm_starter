@@ -1,14 +1,13 @@
-
---- 
-title: "Using Typora to create markdown"
+---
+title: "Post: Using Typora"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
   - Post Formats
-  - readability
-  - standard
-​---
+  - Programming
+  - Utilities
+---
 
 ## Using Typora
 
