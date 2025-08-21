@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Terry's blog"
-  avatar : "/assets/images/TRG_ellipse.PNG"
+  avatar : "/assets/images/TRG_avatar.jpg"
   bio    : "Wandering down rabbit holes related to personal computers, Apple hardware and software, programming, etc."
   links:
     - label: "Website"
