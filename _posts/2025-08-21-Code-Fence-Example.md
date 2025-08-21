@@ -1,5 +1,5 @@
 ---
-title: "Post: Code Fence"
+title: "Post: Code Fence Example"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
