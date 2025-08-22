@@ -9,7 +9,8 @@ tags:
   - SwiftUI
 ---
 
-## This is an example of a code fence with syntax highlighting
+## This is an example of a code fence with Swift syntax highlighting
+### I will add a line in VS Code
 
 `````swift
 import SwiftUI
