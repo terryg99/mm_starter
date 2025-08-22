@@ -9,7 +9,7 @@ tags:
   - SwiftUI
 ---
 
-## This is an example of a code fence
+## This is an example of a code fence with Swift pretty syntax highlighting
 
 `````swift
 import SwiftUI
