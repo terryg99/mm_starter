@@ -12,3 +12,4 @@ tags:
 
 
 
+![sample_image](../assets/images/sample_image.png)
