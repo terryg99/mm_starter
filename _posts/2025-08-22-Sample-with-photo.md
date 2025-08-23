@@ -9,4 +9,4 @@ tags:
 ---
 
 #### This is an example that includes an image
-![sample_image](./assets/images/sample_image.png)
+![sample_image](/assets/images/sample_image2.png)
