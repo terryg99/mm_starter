@@ -20,3 +20,7 @@ tags:
 
 #### This uses a file in same folder
 ![sample.png](./sample.png)
+
+
+#### This uses an image source in html 
+<img src="./sample.png" />
