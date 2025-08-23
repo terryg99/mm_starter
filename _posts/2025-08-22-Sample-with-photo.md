@@ -12,7 +12,7 @@ tags:
 
 #### This attempts to display sample.png
 ![sample.png](../sample.png)
-
+{% raw %}{{ site.url }}{{ site.baseurl }}/assets/images/sample_image2.png{% endraw %}
 
 #### This uses a file in same folder
 ![sample.png](./sample.png)
