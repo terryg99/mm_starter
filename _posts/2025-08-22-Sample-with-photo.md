@@ -16,3 +16,7 @@ tags:
 
 #### This attempts to display sample.png
 ![sample.png](../sample.png)
+
+
+#### This uses a file in same folder
+![sample.png](./sample.png)
